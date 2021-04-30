@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 GitHub test
 
 @author renata_freitas
